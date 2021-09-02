@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/edu.cmu.lti.ws4j/src/main/java/edu/cmu/lti/ws4j/util
+END
+StopWordRemover.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3/trunk/edu.cmu.lti.ws4j/src/main/java/edu/cmu/lti/ws4j/util/StopWordRemover.java
+END
+ICFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3/trunk/edu.cmu.lti.ws4j/src/main/java/edu/cmu/lti/ws4j/util/ICFinder.java
+END
+PathFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/edu.cmu.lti.ws4j/src/main/java/edu/cmu/lti/ws4j/util/PathFinder.java
+END
+PorterStemmer.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3/trunk/edu.cmu.lti.ws4j/src/main/java/edu/cmu/lti/ws4j/util/PorterStemmer.java
+END
+CollectionUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3/trunk/edu.cmu.lti.ws4j/src/main/java/edu/cmu/lti/ws4j/util/CollectionUtil.java
+END
+DepthFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3/trunk/edu.cmu.lti.ws4j/src/main/java/edu/cmu/lti/ws4j/util/DepthFinder.java
+END
+WordSimilarityCalculator.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/3/trunk/edu.cmu.lti.ws4j/src/main/java/edu/cmu/lti/ws4j/util/WordSimilarityCalculator.java
+END
+Traverser.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3/trunk/edu.cmu.lti.ws4j/src/main/java/edu/cmu/lti/ws4j/util/Traverser.java
+END
+MatrixCalculator.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3/trunk/edu.cmu.lti.ws4j/src/main/java/edu/cmu/lti/ws4j/util/MatrixCalculator.java
+END
+WS4JConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/3/trunk/edu.cmu.lti.ws4j/src/main/java/edu/cmu/lti/ws4j/util/WS4JConfiguration.java
+END
+GlossFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3/trunk/edu.cmu.lti.ws4j/src/main/java/edu/cmu/lti/ws4j/util/GlossFinder.java
+END
+OverlapFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3/trunk/edu.cmu.lti.ws4j/src/main/java/edu/cmu/lti/ws4j/util/OverlapFinder.java
+END

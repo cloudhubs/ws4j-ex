@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/edu.cmu.lti.ws4j/src/main/resources
+END
+stoplist.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/edu.cmu.lti.ws4j/src/main/resources/stoplist.txt
+END
+querySense.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/edu.cmu.lti.ws4j/src/main/resources/querySense.txt
+END
+ic-semcor.dat
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/edu.cmu.lti.ws4j/src/main/resources/ic-semcor.dat
+END
