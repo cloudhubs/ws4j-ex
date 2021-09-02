@@ -2,11 +2,11 @@
      xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.github.cloudhubs</groupId>
-  <artifactId>WS4J-ex</artifactId>
+  <artifactId>ws4j-ex</artifactId>
   <packaging>jar</packaging>
   <version>1.0.1</version>
   <name>WS4J</name>
-  <url>http://code.google.com/p/ws4j/</url>
+  <!-- <url>http://code.google.com/p/ws4j/</url> -->
 
   <properties>
      <maven.compiler.source>1.8</maven.compiler.source>
@@ -48,7 +48,7 @@
   </dependencies>
 
   <build>
-    <finalName>ws4j</finalName>
+    <finalName>ws4j-ex</finalName>
     <sourceDirectory>src/main/java</sourceDirectory>
     <testSourceDirectory>src/test/java</testSourceDirectory>
 
